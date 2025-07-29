@@ -1,9 +1,5 @@
 # Secure Network Setup with pfSense, Suricata, and DMZ
-
-**Course:** CY3001 - Networks and Cybersecurity-II  
-**Semester:** Fall 2024  
-**Assignment #4 & #5**  
-**Submitted by:** Idrees Khan (22i-1747), Bakhtawar Ilyas (22i-1665)   
+  
  
 ---
 
